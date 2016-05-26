@@ -7,3 +7,4 @@ end
 
 scream("Yippeee")
 
+# what does it return now? => returns nil
